@@ -1,0 +1,1 @@
+For manual, to have automatic steering press X + LB. For manual steering, press LB + RT and control with the left joystick. To reverse, press down A while pressing LB + RT. Despite its name, manual supports both manual and automatic steering
